@@ -1,9 +1,9 @@
-# 👋 Bienvenue sur mon GitHub  
+# LAWA FOUMSOU PROSPER
 
-## 🚀 À propos de moi  
-Je suis **Lawa Foumsou Prosper**, élève **Ingénieur Statisticien Économiste** à l’**ENSAE de Dakar**, après avoir obtenu mon diplôme d’**Analyste Statisticien** en 2024.  
+👋 Bienvenu sur mon portofolio.
+Je suis **Lawa Foumsou Prosper**, élève **Ingénieur Statisticien Économiste en deuxième année** à l’**ENSAE de Dakar**, et diplômé **Analyste Statisticien** en 2024.  
 
-Passionné par la **statistique appliquée, l’économie et la data science**, je développe mes compétences à travers des projets d’analyse de données, de modélisation et de programmation.  
+Passionné par la **statistique, l’économie et la data science**, je développe mes compétences à travers des projets d’analyse de données, de modélisation et de programmation.  
 
 💡 Centres d’intérêt :  
 - 📊 Analyse des politiques publiques et économiques  

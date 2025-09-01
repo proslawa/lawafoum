@@ -2,16 +2,12 @@ title: "Portfolio | Lawa Foumsou Prosper"
 description: "Élève Ingénieur Statisticien Économiste à l'ENSAE Dakar | Passionné de data science, économie et statistiques appliquées"
 author: "Lawa Foumsou Prosper"
 email: lawafoum@gmail.com
-github_username: proslawa
-linkedin_username: proslawa
-twitter_username: FoumsouLawa02
 
-# Image de profil (placer l'image dans assets/images/profil.jpg)
-logo: "img/WhatsApp Image 2024-12-27 à 11.39.20_4408e2a6.jpg"
+logo: "/img/profil.jpg"
 
 theme: minima
-
 show_excerpts: true
+
 minima:
   social_links:
     github: https://github.com/proslawa

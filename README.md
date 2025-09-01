@@ -1,6 +1,7 @@
 # LAWA FOUMSOU PROSPER
 
 👋 Bienvenu sur mon portofolio.
+
 Je suis **Lawa Foumsou Prosper**, élève **Ingénieur Statisticien Économiste en deuxième année** à l’**ENSAE de Dakar**, et diplômé **Analyste Statisticien** en 2024.  
 
 Passionné par la **statistique, l’économie et la data science**, je développe mes compétences à travers des projets d’analyse de données, de modélisation et de programmation.  

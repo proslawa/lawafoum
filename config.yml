@@ -1,0 +1,28 @@
+title: "Portfolio | Lawa Foumsou Prosper"
+description: "Élève Ingénieur Statisticien Économiste à l'ENSAE Dakar | Passionné de data science, économie et statistiques appliquées"
+author: "Lawa Foumsou Prosper"
+email: lawafoum@gmail.com
+github_username: proslawa
+linkedin_username: proslawa
+twitter_username: FoumsouLawa02
+
+# Choisir un thème Jekyll (GitHub Pages en propose plusieurs : minima, cayman, slate, time-machine, etc.)
+theme: minima
+
+# Options pour le thème minima
+show_excerpts: true   # Montre des extraits d’articles si tu ajoutes un blog
+minima:
+  social_links:
+    github: https://github.com/proslawa
+    linkedin: https://www.linkedin.com/in/proslawa
+    twitter: https://twitter.com/FoumsouLawa02
+    email: mailto:lawafoum@gmail.com
+
+# Paramètres de base du site
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Langue du site
+lang: fr

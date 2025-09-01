@@ -5,7 +5,7 @@ email: lawafoum@gmail.com
 
 logo: "/img/profil.jpg"
 
-theme: minima
+theme: minimal
 show_excerpts: true
 
 minima:

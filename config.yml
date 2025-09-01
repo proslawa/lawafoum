@@ -6,11 +6,12 @@ github_username: proslawa
 linkedin_username: proslawa
 twitter_username: FoumsouLawa02
 
-# Choisir un thème Jekyll (GitHub Pages en propose plusieurs : minima, cayman, slate, time-machine, etc.)
+# Image de profil (placer l'image dans assets/images/profil.jpg)
+logo: "/img/WhatsApp Image 2024-12-27 à 11.39.20_4408e2a6.jpg"
+
 theme: minima
 
-# Options pour le thème minima
-show_excerpts: true   # Montre des extraits d’articles si tu ajoutes un blog
+show_excerpts: true
 minima:
   social_links:
     github: https://github.com/proslawa
@@ -18,11 +19,9 @@ minima:
     twitter: https://twitter.com/FoumsouLawa02
     email: mailto:lawafoum@gmail.com
 
-# Paramètres de base du site
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Langue du site
 lang: fr

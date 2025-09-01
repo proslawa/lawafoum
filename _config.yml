@@ -6,7 +6,7 @@ email: lawafoum@gmail.com
 logo: "/img/profil.jpg"
 
 # Utilisation du thème minimal via remote_theme
-remote_theme: pages-themes/minimal@v0.3.0
+theme: jekyll-theme-minimal
 show_excerpts: true
 
 # Réseaux sociaux (à adapter selon le thème minimal)

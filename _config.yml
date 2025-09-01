@@ -1,25 +1,19 @@
-# -------------------------------
-# Configuration principale du site
-# -------------------------------
+
 title: "Portfolio | Lawa Foumsou Prosper"
-description: "Élève Ingénieur Statisticien Économiste à l'ENSAE Dakar"
-show_downloads: true
+description: "Élève Ingénieur Statisticien Économiste à l'ENSAE Dakar | Passionné de data science"
 author: "Lawa Foumsou Prosper"
 email: lawafoum@gmail.com
 lang: fr
 
-# Logo et favicon
 logo: "/img/profil.jpg"
 favicon: "/img/profil.jpg"
 
-# Thème et affichage
 theme: jekyll-theme-minimal
 show_excerpts: true
 title_separator: " | "
 
-# -------------------------------
-# Réseaux sociaux
-# -------------------------------
+show_downloads: true
+
 social_links:
   - name: github
     url: https://github.com/proslawa
@@ -30,24 +24,17 @@ social_links:
   - name: email
     url: mailto:lawafoum@gmail.com
 
-# -------------------------------
-# Plugins
-# -------------------------------
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# -------------------------------
-# Markdown
-# -------------------------------
 markdown: kramdown
 
-# -------------------------------
-# Autres options possibles
-# -------------------------------
-# Permet de ne pas générer les pages inutiles
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
+downloads:
+  - name: "CV Lawa Foumsou Prosper"
+    url: "/files/CV_Lawa_Foumsou_Prosper.pdf"
+    description: "Téléchargez mon CV en PDF"
+  - name: "Portfolio PDF"
+    url: "/files/Portfolio_Lawa_Foumsou.pdf"
+    description: "Téléchargez mon portfolio complet"
 

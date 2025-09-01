@@ -1,24 +1,53 @@
+# -------------------------------
+# Configuration principale du site
+# -------------------------------
 title: "Portfolio | Lawa Foumsou Prosper"
-description: "Élève Ingénieur Statisticien Économiste à l'ENSAE Dakar | Passionné de data science"
+description: "Élève Ingénieur Statisticien Économiste à l'ENSAE Dakar"
+show_downloads: all
 author: "Lawa Foumsou Prosper"
 email: lawafoum@gmail.com
+lang: fr
 
+# Logo et favicon
 logo: "/img/profil.jpg"
+favicon: "/img/profil.jpg"
 
-# Utilisation du thème minimal via remote_theme
+# Thème et affichage
 theme: jekyll-theme-minimal
 show_excerpts: true
+title_separator: " | "
 
-# Réseaux sociaux (à adapter selon le thème minimal)
+# -------------------------------
+# Réseaux sociaux
+# -------------------------------
 social_links:
-  github: https://github.com/proslawa
-  linkedin: https://www.linkedin.com/in/proslawa
-  twitter: https://twitter.com/FoumsouLawa02
-  email: mailto:lawafoum@gmail.com
+  - name: github
+    url: https://github.com/proslawa
+  - name: linkedin
+    url: https://www.linkedin.com/in/proslawa
+  - name: twitter
+    url: https://twitter.com/FoumsouLawa02
+  - name: email
+    url: mailto:lawafoum@gmail.com
 
-markdown: kramdown
+# -------------------------------
+# Plugins
+# -------------------------------
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-lang: fr
+# -------------------------------
+# Markdown
+# -------------------------------
+markdown: kramdown
+
+# -------------------------------
+# Autres options possibles
+# -------------------------------
+# Permet de ne pas générer les pages inutiles
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
